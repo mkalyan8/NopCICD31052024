@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="262275f7-a91d-490c-a76f-779132c10a97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/page_objects/AbstractPageObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/page_objects/AbstractPageObject.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/page_objects/customersPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/page_objects/customersPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/step_definitions/stepDefinitions.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/step_definitions/stepDefinitions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/support/hook.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/support/hook.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/support/reporter.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/support/reporter.js" afterDir="false" />
-    </list>
+    <list default="true" id="262275f7-a91d-490c-a76f-779132c10a97" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +20,11 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="2hBE2v6Z8lvgfGHPGUMW5DBYv13" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,6 +33,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
