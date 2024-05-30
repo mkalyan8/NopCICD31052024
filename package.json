@@ -1,0 +1,22 @@
+{
+  "name": "typescript-test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && cucumber-js --require ./dist/step_definitions/ --format ./dist/support/reporter.js:.dummy.txt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.3.1",
+    "@types/node": "^20.11.10",
+    "@types/selenium-webdriver": "^4.1.21",
+    "allure-commandline": "^2.27.0",
+    "allure-cucumberjs": "^2.11.1",
+    "playwright": "^1.41.1",
+    "selenium-webdriver": "^4.17.0",
+    "typescript": "^5.3.3"
+  }
+}
