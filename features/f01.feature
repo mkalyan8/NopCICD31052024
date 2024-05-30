@@ -26,8 +26,8 @@ Feature: Verify seacrh and add operations.
     Then product should be displayed in categories
 
     Examples:
-       | ProductItem      |
-       |  categories      |
+      | ProductItem      |
+      |  categories      |
 
 
   Scenario Outline:3 Search product manufacturer to verify Dropdown functionality
